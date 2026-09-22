@@ -41,12 +41,14 @@ paths:
           required: false
           type: integer
           format: integer
+          x-example: 2
         - name: max_delay_second
           description: Maximum delay in second (inclusive)
           in: query
           required: false
           type: integer
           format: integer
+          x-example: 7
         - name: status_codes
           description: Array of gRPC status codes to be generated (numeric)
           in: query
@@ -77,12 +79,14 @@ paths:
           required: false
           type: integer
           format: integer
+          x-example: 2
         - name: max_delay_second
           description: Maximum delay in second (inclusive)
           in: query
           required: false
           type: integer
           format: integer
+          x-example: 7
         - name: status_codes
           description: Array of gRPC status codes to be generated (numeric)
           in: query
@@ -231,12 +235,14 @@ paths:
           required: true
           type: integer
           format: int32
+          x-example: 2
         - name: max_delay_second
           description: Maximum delay in second (inclusive)
           in: path
           required: true
           type: integer
           format: int32
+          x-example: 7
         - name: status_codes
           description: Array of gRPC status codes to be generated (numeric)
           in: query
@@ -267,12 +273,14 @@ paths:
           required: false
           type: integer
           format: integer
+          x-example: 2
         - name: max_delay_second
           description: Maximum delay in second (inclusive)
           in: query
           required: false
           type: integer
           format: integer
+          x-example: 7
         - name: status_codes
           description: Array of gRPC status codes to be generated (numeric)
           in: query
