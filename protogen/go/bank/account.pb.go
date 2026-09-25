@@ -237,7 +237,7 @@ const file_proto_bank_type_account_proto_rawDesc = "" +
 	"\bcurrency\x18\x02 \x01(\tR\bcurrency\x126\n" +
 	"\x16initial_deposit_amount\x18\x03 \x01(\x01R\x16initial_deposit_amount\";\n" +
 	"\x15CreateAccountResponse\x12\"\n" +
-	"\faccount_uuid\x18\x01 \x01(\tR\faccount_uuidB8Z6github.com/timpamungkas/my-grpc-proto/protogen/go/bankb\x06proto3"
+	"\faccount_uuid\x18\x01 \x01(\tR\faccount_uuidB8Z6github.com/hairunadhari/my-grpc-proto/protogen/go/bankb\x06proto3"
 
 var (
 	file_proto_bank_type_account_proto_rawDescOnce sync.Once

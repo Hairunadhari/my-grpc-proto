@@ -16,7 +16,7 @@ import (
 
 	"github.com/grpc-ecosystem/grpc-gateway/v2/runtime"
 	"github.com/grpc-ecosystem/grpc-gateway/v2/utilities"
-	extResiliency "github.com/timpamungkas/my-grpc-proto/protogen/go/resiliency"
+	extResiliency "github.com/hairunadhari/my-grpc-proto/protogen/go/resiliency"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/grpclog"

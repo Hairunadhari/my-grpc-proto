@@ -131,7 +131,7 @@ const file_proto_hello_hello_proto_rawDesc = "" +
 	"\bSayHello\x12\x13.hello.HelloRequest\x1a\x14.hello.HelloResponse\"\x00\x12>\n" +
 	"\rSayManyHellos\x12\x13.hello.HelloRequest\x1a\x14.hello.HelloResponse\"\x000\x01\x12C\n" +
 	"\x12SayHelloToEveryone\x12\x13.hello.HelloRequest\x1a\x14.hello.HelloResponse\"\x00(\x01\x12E\n" +
-	"\x12SayHelloContinuous\x12\x13.hello.HelloRequest\x1a\x14.hello.HelloResponse\"\x00(\x010\x01B9Z7github.com/timpamungkas/my-grpc-proto/protogen/go/hellob\x06proto3"
+	"\x12SayHelloContinuous\x12\x13.hello.HelloRequest\x1a\x14.hello.HelloResponse\"\x00(\x010\x01B9Z7github.com/hairunadhari/my-grpc-proto/protogen/go/hellob\x06proto3"
 
 var (
 	file_proto_hello_hello_proto_rawDescOnce sync.Once

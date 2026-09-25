@@ -30,7 +30,7 @@ const file_proto_bank_service_proto_rawDesc = "" +
 	"\x12FetchExchangeRates\x12\x19.bank.ExchangeRateRequest\x1a\x1a.bank.ExchangeRateResponse\"\x000\x01\x12H\n" +
 	"\x15SummarizeTransactions\x12\x11.bank.Transaction\x1a\x18.bank.TransactionSummary\"\x00(\x01\x12G\n" +
 	"\x10TransferMultiple\x12\x15.bank.TransferRequest\x1a\x16.bank.TransferResponse\"\x00(\x010\x01\x12J\n" +
-	"\rCreateAccount\x12\x1a.bank.CreateAccountRequest\x1a\x1b.bank.CreateAccountResponse\"\x00B8Z6github.com/timpamungkas/my-grpc-proto/protogen/go/bankb\x06proto3"
+	"\rCreateAccount\x12\x1a.bank.CreateAccountRequest\x1a\x1b.bank.CreateAccountResponse\"\x00B8Z6github.com/hairunadhari/my-grpc-proto/protogen/go/bankb\x06proto3"
 
 var file_proto_bank_service_proto_goTypes = []any{
 	(*CurrentBalanceRequest)(nil),  // 0: bank.CurrentBalanceRequest

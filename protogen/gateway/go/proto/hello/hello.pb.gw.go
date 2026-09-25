@@ -16,7 +16,7 @@ import (
 
 	"github.com/grpc-ecosystem/grpc-gateway/v2/runtime"
 	"github.com/grpc-ecosystem/grpc-gateway/v2/utilities"
-	extHello "github.com/timpamungkas/my-grpc-proto/protogen/go/hello"
+	extHello "github.com/hairunadhari/my-grpc-proto/protogen/go/hello"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/grpclog"

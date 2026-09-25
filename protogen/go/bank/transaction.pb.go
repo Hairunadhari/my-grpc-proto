@@ -244,7 +244,7 @@ const file_proto_bank_type_transaction_proto_rawDesc = "" +
 	"\x0fTransactionType\x12 \n" +
 	"\x1cTRANSACTION_TYPE_UNSPECIFIED\x10\x00\x12\x17\n" +
 	"\x13TRANSACTION_TYPE_IN\x10\x01\x12\x18\n" +
-	"\x14TRANSACTION_TYPE_OUT\x10\x02B8Z6github.com/timpamungkas/my-grpc-proto/protogen/go/bankb\x06proto3"
+	"\x14TRANSACTION_TYPE_OUT\x10\x02B8Z6github.com/hairunadhari/my-grpc-proto/protogen/go/bankb\x06proto3"
 
 var (
 	file_proto_bank_type_transaction_proto_rawDescOnce sync.Once

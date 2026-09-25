@@ -155,7 +155,7 @@ const file_proto_transaction_cart_proto_rawDesc = "" +
 	"\ataxable\x18\x04 \x01(\bR\ataxable\"Q\n" +
 	"\x04Cart\x12\x1c\n" +
 	"\tcart_uuid\x18\x01 \x01(\tR\tcart_uuid\x12+\n" +
-	"\x05items\x18\x02 \x03(\v2\x15.transaction.CartItemR\x05itemsB?Z=github.com/timpamungkas/my-grpc-proto/protogen/go/transactionb\x06proto3"
+	"\x05items\x18\x02 \x03(\v2\x15.transaction.CartItemR\x05itemsB?Z=github.com/hairunadhari/my-grpc-proto/protogen/go/transactionb\x06proto3"
 
 var (
 	file_proto_transaction_cart_proto_rawDescOnce sync.Once

@@ -199,7 +199,7 @@ const file_proto_bank_type_exchange_proto_rawDesc = "" +
 	"\x04rate\x18\x03 \x01(\x01R\x04rate\x12\x1c\n" +
 	"\ttimestamp\x18\x04 \x01(\tR\ttimestamp\"\x18\n" +
 	"\x06TestMe\x12\x0e\n" +
-	"\x02id\x18\x01 \x01(\rR\x02idB8Z6github.com/timpamungkas/my-grpc-proto/protogen/go/bankb\x06proto3"
+	"\x02id\x18\x01 \x01(\rR\x02idB8Z6github.com/hairunadhari/my-grpc-proto/protogen/go/bankb\x06proto3"
 
 var (
 	file_proto_bank_type_exchange_proto_rawDescOnce sync.Once

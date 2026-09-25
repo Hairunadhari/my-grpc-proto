@@ -161,7 +161,7 @@ const file_proto_resiliency_resiliency_proto_rawDesc = "" +
 	"\x1dSample response, 200 when ...J%\n" +
 	"\x03400\x12\x1e\n" +
 	"\x1cSample response, 400 when ..\x82\xd3\xe4\x93\x028:\x01*\"3/api/resiliency/v1/metadata/bidirectional_streaming(\x010\x01B\x89\x01\x92AH\x12!\n" +
-	"\x18Course - Protobuf & gRPC2\x051.0.0\x1a\x0elocalhost:8081*\x01\x01:\x10application/jsonZ<github.com/timpamungkas/my-grpc-proto/protogen/go/resiliencyb\x06proto3"
+	"\x18Course - Protobuf & gRPC2\x051.0.0\x1a\x0elocalhost:8081*\x01\x01:\x10application/jsonZ<github.com/hairunadhari/my-grpc-proto/protogen/go/resiliencyb\x06proto3"
 
 var (
 	file_proto_resiliency_resiliency_proto_rawDescOnce sync.Once

@@ -243,7 +243,7 @@ const file_proto_bank_type_transfer_proto_rawDesc = "" +
 	"\x0eTransferStatus\x12\x1f\n" +
 	"\x1bTRANSFER_STATUS_UNSPECIFIED\x10\x00\x12\x1b\n" +
 	"\x17TRANSFER_STATUS_SUCCESS\x10\x01\x12\x1a\n" +
-	"\x16TRANSFER_STATUS_FAILED\x10\x02B8Z6github.com/timpamungkas/my-grpc-proto/protogen/go/bankb\x06proto3"
+	"\x16TRANSFER_STATUS_FAILED\x10\x02B8Z6github.com/hairunadhari/my-grpc-proto/protogen/go/bankb\x06proto3"
 
 var (
 	file_proto_bank_type_transfer_proto_rawDescOnce sync.Once
